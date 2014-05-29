@@ -9,4 +9,8 @@ public class test {
   public void b() {
     //bbb
   }
+
+  public void c() {
+    //bbb
+  }
 }
