@@ -11,7 +11,8 @@ public class test {
     int a = 0;
   }
 
-  public void c() {
+  public int c() {
     //ccc
+    return 10;
   }
 }
